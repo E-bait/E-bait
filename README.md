@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет 👋
 
-<!--
-**E-bait/E-bait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Здесь собраны мои пет-проекты по анализу данных.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Стек
+Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, Superset
+
+---
+
+## 📊 Проекты
+
+### [Продуктовый кейс: Olist](https://github.com/E-bait/olist-metrics)
+Сравнил способы оплаты по среднему чеку и возвратам. Посчитал продуктовые метрики, нашёл точки роста.
+`Python` `Pandas` `t-test` `z-test`
+
+### [Анализ доставки: Olist](https://github.com/E-bait/olist-delivery-analysis)
+Исследовал, как опоздания доставки влияют на оценки клиентов. Нашёл проблемные штаты, построил dashboard.
+`SQL` `PostgreSQL` `Pandas` `Matplotlib` `Superset`
+
+### [A/B-тест: Marketing Campaign](https://github.com/E-bait/marketing-ab-test)
+Реальный A/B-тест на 588 тыс. пользователей. Проверил эффективность рекламы.
+`Python` `SciPy` `Statsmodels` `Matplotlib`
+
+---
+
+## 📫 Контакты
+- Telegram: @fffpov
+- Email: vova.semerunin@mail.ru
