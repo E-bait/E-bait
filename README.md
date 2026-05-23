@@ -17,7 +17,7 @@ Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, Superset
 
 ### [Анализ доставки: Olist](https://github.com/E-bait/marketplace_olist)
 Исследовал, как опоздания доставки влияют на оценки клиентов. Нашёл проблемные штаты, построил dashboard.
-`SQL` `PostgreSQL` `Pandas` `Matplotlib` `Superset`
+`PostgreSQL` `Pandas` `Matplotlib` `Superset`
 
 ### [A/B-тест: Marketing Campaign](https://github.com/E-bait/ab-test)
 Реальный A/B-тест на 588 тыс. пользователей. Проверил эффективность рекламы.
