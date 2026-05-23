@@ -11,7 +11,7 @@ Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, Superset
 
 ## 📊 Проекты
 
-### [Продуктовый кейс: Olist](https://github.com/E-bait/olist_metrics)
+### [Продуктовый кейс: Olist](https://github.com/E-bait/olist-metrics)
 Сравнил способы оплаты по среднему чеку и возвратам. Посчитал продуктовые метрики, нашёл точки роста.
 `Python` `Pandas` `t-test` `z-test`
 
