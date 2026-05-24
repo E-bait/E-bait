@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Стек
-Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, Superset
+Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, BI
 
 ---
 
@@ -27,7 +27,7 @@ Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, Superset
 
 ## 📊 Dashboard
 
-###[Дашборды](https://github.com/E-bait/dashboards)
+### [Redash / Superstore Dashboard](https://github.com/E-bait/dashboards)(https://github.com/E-bait/dashboards)
 
 ---
 
