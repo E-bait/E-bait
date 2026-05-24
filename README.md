@@ -27,7 +27,7 @@ Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, BI
 
 ## 📊 Dashboard
 
-### [Redash / Superstore Dashboard](https://github.com/E-bait/dashboards)(https://github.com/E-bait/dashboards)
+### [Redash / Superstore Dashboard](https://github.com/E-bait/dashboards)
 
 ---
 
