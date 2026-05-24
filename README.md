@@ -25,6 +25,12 @@ Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, Superset
 
 ---
 
+## 📊 Dashboard
+
+###[Дашборды](https://github.com/E-bait/dashboards)
+
+---
+
 ## 📫 Контакты
 - Telegram: @fffpov
 - Email: vova.semerunin@mail.ru
