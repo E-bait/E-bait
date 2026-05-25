@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Стек
-Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, BI
+Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, BI, Git
 
 ---
 
