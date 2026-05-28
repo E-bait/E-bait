@@ -1,11 +1,11 @@
 # Привет 👋
 
-Здесь собраны мои пет-проекты по анализу данных.
+Здесь собраны мои пет-проекты по работе с данными.
 
 ---
 
 ## 🛠 Стек
-Python, Pandas, SQL, Matplotlib, SciPy, Statsmodels, BI, Git
+SQL, Python, BI (redash,superset), Git
 
 ---
 
