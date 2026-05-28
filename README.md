@@ -5,11 +5,15 @@
 ---
 
 ## 🛠 Стек
-SQL, Python, BI (redash,superset), Git
+SQL, Python, BI (redash,superset), Git, Docker
 
 ---
 
 ## 📊 Проекты
+
+### [Sales ETL Dashboard](https://github.com/E-bait/sales-etl)
+ETL-пайплайн на Python, PostgreSQL, визуализация в Redash.
+`SQL` `Python` `Pandas` `Redash`
 
 ### [Продуктовый кейс: Olist](https://github.com/E-bait/olist-metrics)
 Сравнил способы оплаты по среднему чеку и возвратам. Посчитал продуктовые метрики, нашёл точки роста.
@@ -17,17 +21,7 @@ SQL, Python, BI (redash,superset), Git
 
 ### [Анализ доставки: Olist](https://github.com/E-bait/marketplace_olist)
 Исследовал, как опоздания доставки влияют на оценки клиентов. Нашёл проблемные штаты, построил dashboard.
-`PostgreSQL` `Pandas` `Matplotlib` `Superset`
-
-### [A/B-тест: Marketing Campaign](https://github.com/E-bait/ab-test)
-Реальный A/B-тест на 588 тыс. пользователей. Проверил эффективность рекламы.
-`Python` `SciPy` `Statsmodels` `Matplotlib`
-
----
-
-## 📊 Dashboard
-
-### [Redash / Superstore Dashboard](https://github.com/E-bait/dashboards)
+`SQL` `Python` `Pandas` `Matplotlib` `Superset`
 
 ---
 
