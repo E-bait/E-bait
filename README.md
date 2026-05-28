@@ -15,13 +15,13 @@ SQL, Python, BI (redash,superset), Git, Docker
 ETL-пайплайн на Python, PostgreSQL, визуализация в Redash.
 `SQL` `Python` `Pandas` `Redash`
 
-### [Продуктовый кейс: Olist](https://github.com/E-bait/olist-metrics)
-Сравнил способы оплаты по среднему чеку и возвратам. Посчитал продуктовые метрики, нашёл точки роста.
-`Python` `Pandas` `t-test` `z-test`
-
 ### [Анализ доставки: Olist](https://github.com/E-bait/marketplace_olist)
 Исследовал, как опоздания доставки влияют на оценки клиентов. Нашёл проблемные штаты, построил dashboard.
 `SQL` `Python` `Pandas` `Matplotlib` `Superset`
+
+### [Продуктовый кейс: Olist](https://github.com/E-bait/olist-metrics)
+Сравнил способы оплаты по среднему чеку и возвратам. Посчитал продуктовые метрики, нашёл точки роста.
+`Python` `Pandas` `t-test` `z-test`
 
 ---
 
