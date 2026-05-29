@@ -23,6 +23,8 @@ ETL-пайплайн на Python, PostgreSQL, визуализация в Redash
 Сравнил способы оплаты по среднему чеку и возвратам. Посчитал продуктовые метрики, нашёл точки роста.
 `Python` `Pandas` `t-test` `z-test`
 
+### [Дашборды](https://github.com/E-bait/dashboards)
+
 ---
 
 ## 📫 Контакты
