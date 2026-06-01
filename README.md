@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Стек
-SQL, Python, BI (redash,superset), Git, Docker
+SQL, Python, BI (redash,superset), Git, Docker, Airflow
 
 ---
 
