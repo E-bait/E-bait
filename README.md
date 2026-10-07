@@ -1,11 +1,5 @@
-# Привет 👋
-
-Здесь собраны мои пет-проекты по работе с данными.
-
----
-
 ## 🛠 Стек
-SQL, Python, BI (redash,superset), Git, Docker, Airflow
+SQL, Python, BI (Power BI, Redash), Airflow
 
 ---
 
@@ -30,4 +24,3 @@ ETL-пайплайн на Python, PostgreSQL, визуализация в Redash
 
 ## 📫 Контакты
 - Telegram: @fffpov
-- Email: vova.semerunin@mail.ru
